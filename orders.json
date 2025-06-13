@@ -1,1 +1,1 @@
-[{"id":"order-1749788165604-u4xcbh53h","user":{"id":"user123","name":"Alex Doe"},"items":[{"id":2,"name":"Midnight Jasmine","quantity":1,"price":64.8}],"total":64.8,"date":"2025-06-13T04:16:05.604Z","paymentStatus":"Paid, Pending Approval","adminApproved":"Approved"}]
+[{"id":"order-1749788165604-u4xcbh53h","user":{"id":"user123","name":"Alex Doe"},"items":[{"id":"2","name":"Midnight Jasmine","price":64.8,"quantity":2}],"total":129.6,"date":"2025-06-13T04:16:05.604Z","paymentStatus":"Paid, Pending Approval","adminApproved":"Approved"}]
