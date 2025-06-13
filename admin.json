@@ -1,5 +1,5 @@
 [
-  { "account": "Admin", "password": "Admin123", "role": "superadmin" },
+  { "account": "Admin", "password": "1122", "role": "superadmin" },
   { "account": "Assis", "password": "Assis01", "role": "assistant" },
   { "account": "Assis2", "password": "Assis02", "role": "assistant" }
 ]
